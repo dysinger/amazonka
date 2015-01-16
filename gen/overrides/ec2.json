@@ -196,7 +196,6 @@
                 "AvailabilityZone",
                 "CreateTime",
                 "Encrypted",
-                "Iops",
                 "Size",
                 "SnapshotId",
                 "State",
