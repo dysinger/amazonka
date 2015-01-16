@@ -147,7 +147,6 @@
             "required": [
                 "InstanceId",
                 "ImageId",
-                "KeyName",
                 "AmiLaunchIndex",
                 "InstanceType",
                 "LaunchTime",
